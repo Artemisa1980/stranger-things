@@ -1,3 +1,7 @@
 # Display the output
 
-print("New Python File")
+sales = 459
+price = 5.87
+revenue = sales * price
+print(revenue)
+
