@@ -85,7 +85,7 @@ else:
 ####### Debugging challenge: #########
 #Try running this code and type 5.
 #It will give you an IndexError and point to line 32 as the issue.
-#But on line 38 we are trying to prevent a crash by detecting
-#any numbers great than or equal to 3 or less than 0.
+#But on line 38, we are trying to prevent a crash by detecting
+#any numbers greater than or equal to 3 or less than 0.
 #So what's going on?
 #Can you debug the code and fix it?
